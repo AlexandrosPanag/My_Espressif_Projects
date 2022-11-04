@@ -1,0 +1,27 @@
+/*********
+ By Alexandros Panagiotakopoulos
+*********/
+
+//Original Library can be downloaded from here: https://www.arduino.cc/reference/en/libraries/freenove-ws2812-lib-for-esp32/
+
+#include "Freenove_WS2812_Lib_for_ESP32.h"
+
+#define LEDS_COUNT  1
+#define LEDS_PIN	8
+#define CHANNEL		0
+
+
+Freenove_ESP32_WS2812 strip = Freenove_ESP32_WS2812(LEDS_COUNT, LEDS_PIN, CHANNEL, TYPE_GRB);
+
+void setup() {
+  strip.begin();
+  strip.setBrightness(20);  
+}
+
+void loop() {
+    for (int i = 0; i < LEDS_COUNT; i++) {
+      strip.setLedColorData(i, strip.Wheel((i * 256 / LEDS_COUNT+50) & 255));
+    }
+    strip.show();
+    delay(1000);
+}
