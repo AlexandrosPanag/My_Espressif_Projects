@@ -1,7 +1,12 @@
 My ESP32 Projects
 -------
 
-(Work in-progress, i highly encourage you to check out my ESP8266 and Arduino programs considering most of them are the same)
+(Work in-progress, i highly encourage you to check out my ESP8266 and Arduino programs considering most of them are the same, just with different libraries)
+
+Arduino: https://github.com/AlexandrosPanag/My_Arduino_Projects
+
+ESP8266: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP8266
+
 
 A feature-rich MCU with integrated Wi-Fi and
 Bluetooth connectivity for a wide-range
