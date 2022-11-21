@@ -1,7 +1,7 @@
 LCD INITIALIZATION
 ----------------------------------------------
 
-A program to initialize your ESP32C3-DevKitC-02 with your LCD 16X2 addresses
+A program to initialize your ESP32C3-DevKitC-02 with your LCD 16X2 addresses (SPI_CONNECTION !)
 
 
 LCD_DHT11
