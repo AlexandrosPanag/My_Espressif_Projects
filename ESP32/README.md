@@ -1,7 +1,13 @@
 My ESP32 Projects
 -------
 
-(Work in-progress, i highly encourage you to check out my ESP8266 and Arduino programs considering most of them are the same, just with different libraries)
+The Esp32 DevKit v1 is one of the development board created to evaluate the ESP-WROOM-32 module. It is based on the ESP32 microcontroller that boasts Wifi, Bluetooth, Ethernet and Low Power support all in a single chip.
+
+ESP32 is already integrated antenna and RF balun, power amplifier, low-noise amplifiers, filters, and power management module. The entire solution takes up the least amount of printed circuit board area.This board is used with 2.4 GHz dual-mode Wi-Fi and Bluetooth chips by TSMC 40nm low power technology, power and RF properties best, which is safe, reliable, and scalable to a variety of applications.
+
+
+![](https://grobotronics.com/images/companies/1/71kEWzr29bL._AC_SL1001_.jpg?1652689656048)
+
 
 Arduino: https://github.com/AlexandrosPanag/My_Arduino_Projects
 
