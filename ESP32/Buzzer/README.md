@@ -8,5 +8,5 @@ Originally written by: Ron D Bentley, Stafford, UK, September 2021. The program 
 
 Connection with ESP32 - Buzzer
 ---------------------------------------
-Digital Pin2 - +
-GND          - -
+|Digital Pin2 | +|
+|GND          | -|
