@@ -1,7 +1,7 @@
 ESP32-C3-DevKitC-02
 ---------------------------
 
-Unique examples that are only compatible with the ESP32-C3-DevKitC-02 and not the ESP32 - Development Board. 
+Unique examples that are only compatible with the ESP32-C3-DevKitC-02 model. All of the programs are compatible with my ESP32 Repository which can be found here: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32. In order to avoid the use of re-uploading the same code I highly advise you to check out this repository! 
 
 The model ESP32-C3-DevKitC-02 was provided to me by the Autonomous Systems Laboratory on the University of Ioannina, Department of Informatics & Telecommunications.
 
