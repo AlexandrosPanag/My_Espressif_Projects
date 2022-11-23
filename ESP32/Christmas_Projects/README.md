@@ -5,3 +5,9 @@ An amazing program that can be found originally here: https://create.arduino.cc/
 Contains multiple different christmas songs!
 
 Originally written by: Ron D Bentley, Stafford, UK, September 2021. The program was so awesome that i just had to include it !
+
+
+|Connection with ESP32 | Buzzer|
+| --------------- | ---------------- | 
+|Digital Pin2 | +|
+|GND          | -|
