@@ -13,11 +13,11 @@ ARTICLE SOURCE & IMAGE CAN BE FOUND HERE: https://grobotronics.com/esp32-develop
 
 
 -----------------------------------------------------
-#A few other useful microcontroller-based projects can be found here:
+A few other useful microcontroller-based projects can be found here:
 -----------------------------------------------
 
 Arduino: https://github.com/AlexandrosPanag/My_Arduino_Projects
-
+ESP32-DEVKITC3-02: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32-C3-DevKitC-02
 ESP8266: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP8266
 
 
