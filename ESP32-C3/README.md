@@ -1,9 +1,15 @@
 ESP32-C3-DevKitC-02
 ---------------------------
 
-Unique examples that are only compatible with the ESP32-C3-DevKitC-02 model. All of the programs are compatible with my ESP32 Repository which can be found here: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32. In order to avoid the use of re-uploading the same code I highly advise you to check out this repository! 
+Unique examples that are only compatible with the ESP32-C3-DevKitC-02 model.
+
+
+For more ESP32 Solutions I highly encourage you to check-out my ESP32 main branch considering all of the programs are compatible and have been tested on the ESP32-C3 (just make sure the pins are connected to the appropriate pin positions!) : https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32. 
+In order to avoid the use of re-uploading the same codes I highly advise you to check out this repository! 
 
 Compiler/Ide used: https://www.arduino.cc/en/software
+
+Visual Studio code with PlatformIO:https://code.visualstudio.com, https://platformio.org/install/ide?install=vscode
 
 The codes were compiled on the model ESP32-C3-DevKitC-02 was provided to me by the Autonomous Systems Laboratory on the University of Ioannina, Department of Informatics & Telecommunications along with my own personal model ESP32-C3-DEVKITM-1.
 
