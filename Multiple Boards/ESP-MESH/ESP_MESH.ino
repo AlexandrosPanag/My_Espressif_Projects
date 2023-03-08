@@ -1,4 +1,3 @@
-#include "AsyncTCP.h" //include the AsyncTCP.h library
 #include "painlessMesh.h" //include the painless mesh library
 
 
@@ -42,7 +41,7 @@ void nodeTimeAdjustedCallback(int32_t offset) {
 }
 
 void setup() {
-  Serial.begin(115200); //intialize the serial baud rate to 115200 bauds
+  Serial.begin(9600); //intialize the serial baud rate to 9600 bauds
 
 //mesh.setDebugMsgTypes( ERROR | MESH_STATUS | CONNECTION | SYNC | COMMUNICATION | GENERAL | MSG_TYPES | REMOTE ); // all types on
   mesh.setDebugMsgTypes( ERROR | STARTUP );  // set before init() so that you can see startup messages
