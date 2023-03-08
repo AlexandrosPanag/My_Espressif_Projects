@@ -1,3 +1,7 @@
+BearSSL
+----
+
+
 BearSSL is an implementation of the SSL/TLS protocol (RFC 5246) written in C. It aims at offering the following features:
 
 Be correct and secure. In particular, insecure protocol versions and choices of algorithms are not supported, by design; cryptographic algorithm implementations are constant-time by default.
