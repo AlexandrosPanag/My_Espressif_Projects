@@ -11,7 +11,7 @@ The ESP-IDF, Espressif IoT Development Framework, provides toolchain, API, compo
 
 ![](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_images/about-doc.png)
 
-THIS ARTICLE WAS TAKEN FROM & CAN BE FOUND HERE: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/about.html
+THIS ARTICLE WAS TAKEN FROM & ALONG WITH THE ABOVE IMAGE CAN BE FOUND HERE: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/about.html
 
 This repository will focus on programming the ESP32-C3 Microcontroller with the help of ESP-IDF.
 
