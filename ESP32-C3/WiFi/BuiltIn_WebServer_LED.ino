@@ -1,5 +1,5 @@
 /*********
- By Alexandros Panagiotakopoulos
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 *********/
 
 //Connect the LED into D4
