@@ -2,7 +2,7 @@ ESP-IDF with ESP32C3
 -----
 
 ---
----> !! <b> PLEASE NOTE THIS REPOSITORY WILL ONLY CONTAIN SOLUTIONS FOR ESP32C3!! </b>  <----
+-> !! <b> PLEASE NOTE THIS REPOSITORY WILL ONLY CONTAIN SOLUTIONS FOR ESP32C3!! </b>  <-
 ---
 
 For ESP32 solutions that can also be compiled on ESP32C3 check out this repository: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32/ESP-IDF
