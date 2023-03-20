@@ -1,4 +1,7 @@
 # My Espressif Systems Repository
+
+https://img.shields.io/bower/l/mi
+
 My Espressif Systems Repository which contains multiple solutions for the ESP32, ESP8266 & the ESP32-C3 microcontrollers.
 
 Various compilers/IDE(s) were used in order to create different solutions
