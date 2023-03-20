@@ -1,6 +1,12 @@
 My ESP32 Projects
 -------
 
+{
+  "color": "blue",
+  "status": "$39,333.7",
+  "subject": "Bitcoin Price USD"
+}
+
 The Esp32 DevKit v1 is one of the development board created to evaluate the ESP-WROOM-32 module. It is based on the ESP32 microcontroller that boasts Wifi, Bluetooth, Ethernet and Low Power support all in a single chip.
 
 ESP32 is already integrated antenna and RF balun, power amplifier, low-noise amplifiers, filters, and power management module. The entire solution takes up the least amount of printed circuit board area.This board is used with 2.4 GHz dual-mode Wi-Fi and Bluetooth chips by TSMC 40nm low power technology, power and RF properties best, which is safe, reliable, and scalable to a variety of applications.
