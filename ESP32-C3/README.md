@@ -1,7 +1,7 @@
-ESP32-C3-DevKitC-02
+ESP32-C3
 ---------------------------
 
-Unique examples that are only compatible with the ESP32-C3-DevKitC-02 model.
+Unique examples that are only compatible with the ESP32-C3 models.
 
 
 For more ESP32 Solutions I highly encourage you to check-out my ESP32 main branch considering all of the programs are compatible and have been tested on the ESP32-C3 (just make sure the pins are connected to the appropriate pin positions!) : https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32. 
