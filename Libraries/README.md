@@ -1,7 +1,13 @@
-Libraries used for the Arduino IDE
+Library Archive for My ESP Projects - LATEST VERSION
+----
 
-This is my Library Archive that contains all of my libraries that I used in each and every project in case they can't be found on the Manage Libraries from the arduino IDE or were installed incorrectly.
+This repository serves as a backup archive for all the libraries used in my projects. It ensures that any library—whether deprecated, removed, or improperly installed from Arduino sources—remains accessible for future use.
 
-Please credit the original authors --all rights belond to the original library authors :)
+Note:
+For the a legacy <2022 related version please install the library.rar from the link bellow:
+https://github.com/AlexandrosPanag/My_Arduino_Projects/tree/main/Libraries
 
-LAST UPDATE : 04/01/2024
+Credits:
+All libraries belong to their original authors. Please ensure you credit them appropriately when using these resources.
+
+Last Updated: 02/04/2024
