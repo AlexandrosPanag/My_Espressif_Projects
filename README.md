@@ -13,9 +13,14 @@ This work is licensed under a
 
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
-My Espressif Systems Repository which contains multiple solutions for the ESP32, ESP8266 & the ESP32-C3 microcontrollers.
+My Espressif Systems Repository which contains multiple solutions for the ESP8266, ESP32 & the ESP32-C3 microcontrollers.
 
-Various compilers/IDE(s) were used in order to create different solutions
+
+# ESP32 & ESP8266 Drivers Download:
+https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all#windows-710
+
+
+# Various compilers/IDE(s) were used in order to create different solutions
 
 | Compiler/IDE | Download Link |
 | --------------- | ---------------- |
