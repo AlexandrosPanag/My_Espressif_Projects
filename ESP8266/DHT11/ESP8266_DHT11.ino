@@ -3,10 +3,10 @@
 
 
 // connect the sensor : 
-// DHT11             ESP8266
-// left sensor pin   D4
-// VDD/VIN           DIGITAL 3V3
-// GND               DIGITAL GND
+// DHT11                       ESP8266
+// left sensor pin <--         D4 (GPIO2)
+// VDD/VIN                     DIGITAL 3V
+// GND (right sensor pin) -->  DIGITAL GND
 
 // - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
 // - Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor
