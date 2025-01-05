@@ -6,8 +6,8 @@ Temperature & humidity program. The program identifies the current temperature a
 
 Connections:
 
-| ---------- |   ---------- | 
-| ESP8266 | DHT11 |
-| Left Sensor Pin <- | D4 |
-| Middle Sensor Pin | 3V |
-| Right Sensor Pin | GND |
+| DHT11 | ESP32 |
+| --------------- | --------------- |
+| Left Sensor Pin <--- | D4 (GPIO 2) |
+| VDD/VIN | 3V |
+| Right Sensor Pin GND ---> | GND|
