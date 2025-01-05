@@ -1,4 +1,4 @@
-// By Alexandros Panagiotakopoulos
+// By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 // January 05/01/2025
 
 // For the digital pin reference please refer to the link bellow:
