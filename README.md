@@ -1,5 +1,10 @@
 # My Espressif Systems Repository
 
+
+My Espressif Systems Repository which contains multiple solutions for the ESP8266, ESP32 & the ESP32-C3 microcontrollers.
+
+
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
@@ -12,8 +17,6 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
-
-My Espressif Systems Repository which contains multiple solutions for the ESP8266, ESP32 & the ESP32-C3 microcontrollers.
 
 
 # ESP32 & ESP8266 Drivers Download:
