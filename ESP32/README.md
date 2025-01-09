@@ -7,7 +7,7 @@ The Esp32 DevKit v1 is one of the development board created to evaluate the ESP-
 ESP32 is already integrated antenna and RF balun, power amplifier, low-noise amplifiers, filters, and power management module. The entire solution takes up the least amount of printed circuit board area.This board is used with 2.4 GHz dual-mode Wi-Fi and Bluetooth chips by TSMC 40nm low power technology, power and RF properties best, which is safe, reliable, and scalable to a variety of applications.
 
 
-Article source was taken & can be found here: 
+<b> Article source was taken & can be found here:  </b>
 
 https://grobotronics.com/esp32-development-board-devkit-v1.html?sl=en#:~:text=DESCRIPTION-,The%20Esp32%20DevKit%20v1%20is%20one%20of%20the%20development%20board,all%20in%20a%20single%20chip.
 
