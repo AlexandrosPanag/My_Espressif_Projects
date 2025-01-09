@@ -41,5 +41,15 @@ ESP8266EX (simply referred to as ESP8266) is a system-on-chip (SoC) which integr
 
 SOURCE:http://esp8266.net
 
+## Useful links:
+
+Internet of Things with ESP8266
+
+By Marco Schwartzhttps://books.google.gr/books?hl=en&lr=&id=ROnUDQAAQBAJ&oi=fnd&pg=PP1&dq=esp8266+pin+reference&ots=RluTUodpWP&sig=1nEn3Fd11vXF13sJVwLZMCrWOWU&redir_esc=y#v=onepage&q=esp8266%20pin%20reference&f=false
+
+
+Random Nerd Tutorials 
+
+https://randomnerdtutorials.com
 
 
