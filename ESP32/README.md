@@ -18,26 +18,21 @@ https://grobotronics.com/esp32-development-board-devkit-v1.html?sl=en#:~:text=DE
 ![](https://grobotronics.com/images/companies/1/71kEWzr29bL._AC_SL1001_.jpg?1652689656048)
 
 
-### Compiler/Ide used: https://www.arduino.cc/en/software
+## Compiler/Ide used: 
+
+https://www.arduino.cc/en/software
 
 
-### A few other useful microcontroller-based projects can be found here:
+A few other useful microcontroller-based projects can be found here:
+
+Arduino: 
+https://github.com/AlexandrosPanag/My_Arduino_Projects
 
 
-## Arduino: https://github.com/AlexandrosPanag/My_Arduino_Projects
+ESP32-DEVKITC3-02: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32-C3-DevKitC-02
 
 
-## ESP32-DEVKITC3-02: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32-C3-DevKitC-02
-
-
-## ESP8266: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP8266
-
-
-A feature-rich MCU with integrated Wi-Fi and
-Bluetooth connectivity for a wide-range
-of applications
-
-For more information you can check out : https://www.espressif.com/en/products/socs/esp32,
+ESP8266: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP8266
 
 
 
