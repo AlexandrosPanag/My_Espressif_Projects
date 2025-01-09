@@ -1,22 +1,17 @@
 # My esp8266 Projects
 
 
-
-My esp8266 Projects, some of the programs are compatible 100% with an arduino board except the ones that require cable connections like LCD (you need to connect the LCD pins with an alternative method on an arduino board.
+My ESP8266 Projects, some of the programs are compatible 100% with an arduino board except the ones that require cable connections like LCD (you need to connect the LCD pins with an alternative method on an arduino board.
 
 For more examples check out : https://github.com/AlexandrosPanag/My_Arduino_Projects,https://github.com/AlexandrosPanag/My_ESP32_Projects
 
+along with my Arduino repository: https://github.com/AlexandrosPanag/My_Arduino_Projects/tree/main
 
 
 
+In order to identify the ESP8266 Board on the Arduino IDE
 
-Documentation / Arduino IDE implementation can be found here 
-
-https://github.com/esp8266/Arduino
-
-
-
-Custom library that can be set on File > Preferances > Additional Manager Urls > https://arduino.esp8266.com/stable/package_esp8266com_index.json
+Go to File > Preferances > Additional Manager Urls > https://arduino.esp8266.com/stable/package_esp8266com_index.json 
 
 
 ---------------
@@ -36,7 +31,7 @@ ESP8266EX (simply referred to as ESP8266) is a system-on-chip (SoC) which integr
 
 
 
-SOURCE:http://esp8266.net
+This article was taken directly and can be found here:http://esp8266.net
 
 
 
