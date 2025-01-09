@@ -36,6 +36,6 @@ ESP8266: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP82
 
 
 
-## ESP32 Used: ESP32 Dev Module 
+<b> ESP32 Used: ESP32 Dev Module </b>
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_ESP32_Projects/main/ESP32-Pins.png)
