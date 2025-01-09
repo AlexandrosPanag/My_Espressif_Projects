@@ -1,5 +1,5 @@
-My ESP32 Projects
--------
+# My ESP32 Projects
+
 
 
 The Esp32 DevKit v1 is one of the development board created to evaluate the ESP-WROOM-32 module. It is based on the ESP32 microcontroller that boasts Wifi, Bluetooth, Ethernet and Low Power support all in a single chip.
@@ -19,13 +19,13 @@ Compiler/Ide used: https://www.arduino.cc/en/software
 A few other useful microcontroller-based projects can be found here:
 -----------------------------------------------
 
-Arduino: https://github.com/AlexandrosPanag/My_Arduino_Projects
+## Arduino: https://github.com/AlexandrosPanag/My_Arduino_Projects
 
 
-ESP32-DEVKITC3-02: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32-C3-DevKitC-02
+## ESP32-DEVKITC3-02: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32-C3-DevKitC-02
 
 
-ESP8266: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP8266
+## ESP8266: https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP8266
 
 
 A feature-rich MCU with integrated Wi-Fi and
@@ -36,6 +36,6 @@ For more information you can check out : https://www.espressif.com/en/products/s
 
 
 
-ESP32 Used: ESP32 Dev Module 
+## ESP32 Used: ESP32 Dev Module 
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_ESP32_Projects/main/ESP32-Pins.png)
