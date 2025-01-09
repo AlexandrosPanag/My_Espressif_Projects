@@ -17,4 +17,4 @@ The codes were compiled on the model ESP32-C3-DevKitC-02 was provided to me by t
 ![](https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32c3/_images/esp32-c3-devkitm-1-v1-pinout.png)
 
 
-IMAGE SOURCE: https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitc-02.html,https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32c3/
+<b> image source: https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitc-02.html,https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32c3/ </b>
