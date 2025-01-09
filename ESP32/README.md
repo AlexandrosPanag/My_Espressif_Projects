@@ -12,17 +12,17 @@ ESP32 is already integrated antenna and RF balun, power amplifier, low-noise amp
 https://grobotronics.com/esp32-development-board-devkit-v1.html?sl=en#:~:text=DESCRIPTION-,The%20Esp32%20DevKit%20v1%20is%20one%20of%20the%20development%20board,all%20in%20a%20single%20chip.
 
 
-Pin Reference Guide
------
+## Pin Reference Guide
+
 
 ![](https://grobotronics.com/images/companies/1/71kEWzr29bL._AC_SL1001_.jpg?1652689656048)
 
 
-Compiler/Ide used: https://www.arduino.cc/en/software
+### Compiler/Ide used: https://www.arduino.cc/en/software
 
------------------------------------------------------
-A few other useful microcontroller-based projects can be found here:
------------------------------------------------
+
+### A few other useful microcontroller-based projects can be found here:
+
 
 ## Arduino: https://github.com/AlexandrosPanag/My_Arduino_Projects
 
