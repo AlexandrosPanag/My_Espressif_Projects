@@ -18,10 +18,6 @@ https://grobotronics.com/esp32-development-board-devkit-v1.html?sl=en#:~:text=DE
 ![](https://grobotronics.com/images/companies/1/71kEWzr29bL._AC_SL1001_.jpg?1652689656048)
 
 
-## Compiler/Ide used: 
-
-https://www.arduino.cc/en/software
-
 
 A few other useful microcontroller-based projects can be found here:
 
