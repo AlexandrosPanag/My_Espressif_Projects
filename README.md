@@ -31,3 +31,9 @@ https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all#windows-71
 | ESP-IDF | [Download Link](https://dl.espressif.com/dl/esp-idf/) |
 | VSCode with PlatformIO | [Download Link](https://platformio.org/install/ide?install=vscode) |
 
+In order to identify the Espressif Boards in the Arduino IDE and install them, Go to File -> Preferences -> Additional board manager URLS and copy paste: 
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+Then press OK.
