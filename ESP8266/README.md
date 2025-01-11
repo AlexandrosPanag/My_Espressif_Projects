@@ -9,10 +9,6 @@ along with my Arduino repository: https://github.com/AlexandrosPanag/My_Arduino_
 
 
 
-In order to identify the ESP8266 Board on the Arduino IDE
-
-Go to File > Preferances > Additional Manager Urls > https://arduino.esp8266.com/stable/package_esp8266com_index.json 
-
 
 ---------------
 ### About ESP8266
