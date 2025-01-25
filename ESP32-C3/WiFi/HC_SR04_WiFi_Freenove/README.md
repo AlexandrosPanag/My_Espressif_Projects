@@ -68,7 +68,6 @@ The `categorizeDistance` function categorizes a given distance into one of three
 ## Example Code
 
 ```cpp
-// filepath: /C:/Users/alexa/Desktop/Untitled-1.ino
 // By Alexandros Panagiotakopoulos
 // alexandrospanag.github.io
 // Date: January 2025
