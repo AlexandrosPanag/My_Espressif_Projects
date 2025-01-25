@@ -1,3 +1,3 @@
-Builtin Web Server LED
+WiFi
 -----------------
-An example of how we can use the built-in LED in order to turn it off & on through a web application with a costum IP Address
+A folder with all the WiFi related implementations for ESP32C3 module.
