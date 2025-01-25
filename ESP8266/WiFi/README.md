@@ -88,7 +88,7 @@ Example Output
 #include <WiFi.h> // Include the Wi-Fi library
 #include <WiFiClient.h> // Include the Wi-Fi client library
  
-const char *ssid = "Cudy-Extender"; // SSID of the network
+const char *ssid = "yourwifiroutername"; // SSID of the network
 const char *password = "mypassword"; // Password of the network
 
 WiFiServer server(80); // Create a server object
