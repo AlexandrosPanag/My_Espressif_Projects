@@ -1,8 +1,5 @@
 #HC_SR04 WiFi Freenove
 
-#Overview
-
-# ESP32C3 Project Documentation
 
 ## Overview
 
