@@ -42,7 +42,7 @@ Edit these lines in your code as needed:
 
 ```cpp
 EspMQTTClient client(
-  "Cudy-Extender",              // WiFi SSID
+  "",              // WiFi SSID
   "",                           // WiFi password
   "mqttdashboard.com",          // MQTT Broker server (e.g., broker.mqttdashboard.com)
   "",                           // MQTT Username (optional)
