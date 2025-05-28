@@ -6,7 +6,7 @@
 
 
 EspMQTTClient client(
-  "Cudy-Extender",              // wifi SSID
+  "",              // wifi SSID
   "",                          // wifi password
   "mqttdashboard.com",         // MQTT Broker server ip (broker.mqttdashboard.com for example)
   "",                          // MQTT Username: Can be omitted if not needed
